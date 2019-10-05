@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\Horarios Sistemas II-2019.pdf
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\HorariosTI.exe.config
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\HorariosTI.exe
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\HorariosTI.pdb
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\itextsharp.dll
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\bin\Debug\itextsharp.xml
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\obj\Debug\HorariosTI.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\obj\Debug\HorariosTI.csproj.CopyComplete
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\obj\Debug\HorariosTI.exe
+C:\Users\Jesus\source\repos\HorariosTI\HorariosTI\obj\Debug\HorariosTI.pdb
