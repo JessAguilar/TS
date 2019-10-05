@@ -1,0 +1,5 @@
+C:\Users\Jesus\source\repos\Composite\Composite\bin\Debug\Composite.exe.config
+C:\Users\Jesus\source\repos\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\Jesus\source\repos\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\Jesus\source\repos\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\Jesus\source\repos\Composite\Composite\obj\Debug\Composite.pdb
