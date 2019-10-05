@@ -1,0 +1,5 @@
+C:\Users\Jesus\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Jesus\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Jesus\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Jesus\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Jesus\source\repos\Builder\Builder\obj\Debug\Builder.pdb

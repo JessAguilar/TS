@@ -1,0 +1,6 @@
+C:\Users\Jesus\source\repos\prototype\prototype\bin\Debug\prototype.exe.config
+C:\Users\Jesus\source\repos\prototype\prototype\bin\Debug\prototype.exe
+C:\Users\Jesus\source\repos\prototype\prototype\bin\Debug\prototype.pdb
+C:\Users\Jesus\source\repos\prototype\prototype\obj\Debug\prototype.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\prototype\prototype\obj\Debug\prototype.exe
+C:\Users\Jesus\source\repos\prototype\prototype\obj\Debug\prototype.pdb
